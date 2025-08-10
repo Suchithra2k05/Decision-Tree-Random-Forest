@@ -38,9 +38,6 @@ Compare accuracy scores and classification reports.
 
 📊 Sample Output
 
-yaml
-Copy
-Edit
 Decision Tree Accuracy: 0.9777
 Random Forest Accuracy: 0.9777
 
@@ -58,8 +55,7 @@ Classification Report - Random Forest:
 
 Best Decision Tree Parameters: {'max_depth': 4, 'min_samples_split': 2}
 Best Random Forest Parameters: {'max_depth': 4, 'min_samples_split': 2, 'n_estimators': 100}
-🏢 Internship Context
-This project was created as Task 2 during my internship with Code n Career, focusing on comparing single-model vs ensemble-model performance for classification tasks.
+
 
 💡 Key Learnings
 Decision Trees are easy to interpret but prone to overfitting.
@@ -67,9 +63,7 @@ Random Forests generally provide better accuracy and robustness.
 Hyperparameter tuning is essential to optimize model performance.
 
 📌 How to Run
-bash
-Copy
-Edit
+
 # Clone the repository
 git clone https://github.com/yourusername/decision-tree-vs-random-forest.git
 # Navigate to the folder
